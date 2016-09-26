@@ -33,7 +33,5 @@ startX = 0;
 startY = 150;
 endX = 150;
 endY = 0;
-clear();
-background(50,50,50);
 }
 
